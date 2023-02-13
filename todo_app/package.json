@@ -41,5 +41,6 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
+  
   "homepage": "https://github.com/DaniKeys/app_tasks_gh_pages"
 }
