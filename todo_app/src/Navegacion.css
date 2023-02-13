@@ -1,0 +1,35 @@
+.custom-center{
+    width: 86%;
+    background-color: aqua;
+
+}
+.line{
+    height: 5px;
+    color: aliceblue;
+
+}
+.display-6{
+    text-align: center;
+}
+
+progress{
+    width:30%;
+}
+.custom-input{
+    color: rgb(0, 0, 0);
+    background-color: rgb(128, 122, 116);
+}
+
+.color{
+    color: aqua;
+    background-color: rgb(68, 68, 71);
+}
+
+.custom-input::-webkit-input-placeholder {
+    color: rgb(0, 0, 0);
+}
+.charge{
+    width: 80%;
+    background-color: rgb(164, 164, 177);
+}
+
