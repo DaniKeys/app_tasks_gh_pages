@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/app_tasks_gh_pages/static/css/main.eb1009e1.css",
+    "main.js": "/app_tasks_gh_pages/static/js/main.499dc1a5.js",
+    "index.html": "/app_tasks_gh_pages/index.html",
+    "main.eb1009e1.css.map": "/app_tasks_gh_pages/static/css/main.eb1009e1.css.map",
+    "main.499dc1a5.js.map": "/app_tasks_gh_pages/static/js/main.499dc1a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb1009e1.css",
+    "static/js/main.499dc1a5.js"
+  ]
+}
