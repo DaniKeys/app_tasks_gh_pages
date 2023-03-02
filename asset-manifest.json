@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/DaniKeys/app_tasks_gh_pages/static/css/main.eb1009e1.css",
-    "main.js": "/DaniKeys/app_tasks_gh_pages/static/js/main.ac169e47.js",
-    "static/js/787.2843ca88.chunk.js": "/DaniKeys/app_tasks_gh_pages/static/js/787.2843ca88.chunk.js",
-    "index.html": "/DaniKeys/app_tasks_gh_pages/index.html",
-    "main.eb1009e1.css.map": "/DaniKeys/app_tasks_gh_pages/static/css/main.eb1009e1.css.map",
-    "main.ac169e47.js.map": "/DaniKeys/app_tasks_gh_pages/static/js/main.ac169e47.js.map",
-    "787.2843ca88.chunk.js.map": "/DaniKeys/app_tasks_gh_pages/static/js/787.2843ca88.chunk.js.map"
+    "main.css": "/app_tasks_gh_pages/static/css/main.eb1009e1.css",
+    "main.js": "/app_tasks_gh_pages/static/js/main.499dc1a5.js",
+    "index.html": "/app_tasks_gh_pages/index.html",
+    "main.eb1009e1.css.map": "/app_tasks_gh_pages/static/css/main.eb1009e1.css.map",
+    "main.499dc1a5.js.map": "/app_tasks_gh_pages/static/js/main.499dc1a5.js.map"
   },
   "entrypoints": [
     "static/css/main.eb1009e1.css",
-    "static/js/main.ac169e47.js"
+    "static/js/main.499dc1a5.js"
   ]
 }
