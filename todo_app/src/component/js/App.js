@@ -66,8 +66,8 @@ function App(props) {
         completed={(text) => completedTodo(text)}
       />
       <button className="form-control bg-dark my-1 addTodo" onClick={() => setModal(true)}><FaPlus/></button>
-
     </>
+
   );
 }
 export default App;

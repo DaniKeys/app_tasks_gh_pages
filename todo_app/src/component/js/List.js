@@ -22,10 +22,12 @@ function List(props) {
                                             </div>
                                             <div className='col-6'>
                                                 {/* <p className={`TodoItem-p ${tarea.completed && 'TodoItem-p--complete'}`}> */}
-                                                <p className={tarea.completed ? "TodoItem-p--complete" : "TodoItem-p"}>
-                                                    {tarea.text}
+                                                <p className={tarea.completed ? "TodoItem-p--complete" : "TodoItem-p"} id="fontLista">
+                                                    {tarea.text} 
+                                                    <p className='text-info my-2 dateMeta'> {tarea.meta}</p>
                                                 </p>
                                             </div>
+    
                                             <div className='col-3'>
                                                 <button className='remove-btn' onClick={() => { props.remove(tarea.text) }}><GoX/></button>
                                             </div>

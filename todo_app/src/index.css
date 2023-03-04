@@ -1,3 +1,10 @@
+/* *{
+  box-sizing: border-box;
+  height: 100%;
+			margin: 0;
+			padding: 0;
+} */
+
 body {
   background: url("https://www.whatspaper.com/wp-content/uploads/2021/05/neon-whatspaper-3.jpg"), repeat-x;
   background-position: bottom;
